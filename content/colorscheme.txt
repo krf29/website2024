@@ -1,0 +1,4 @@
+primary:	#1363DF		#0B60B0
+primary-light:	#47B5FF		#40A2D8
+dark-bg:	#06283D		#3D3B40
+light-bg:	#DFF6FF		#F0EDCF
